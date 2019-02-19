@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\bin\Debug\Servo_Pic_Test.exe
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\bin\Debug\Servo_Pic_Test.pdb
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\bin\Debug\Servo_Pic_Test.xml
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\obj\x86\Debug\Servo_Pic_Test.Form1.resources
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\obj\x86\Debug\Servo_Pic_Test.Resources.resources
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\obj\x86\Debug\Servo_Pic_Test.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\obj\x86\Debug\Servo_Pic_Test.exe
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\obj\x86\Debug\Servo_Pic_Test.xml
+C:\Users\User\Documents\Trabajos_Indi\Pic_Servo_test\Servo_Pic_Test\Servo_Pic_Test\obj\x86\Debug\Servo_Pic_Test.pdb
